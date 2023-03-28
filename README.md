@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tarakesh
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- tarakeshpasupuleti96@gmail.com
+-  Hi, I’m Tarakesh
+-  I’m interested in Gaming
+-  I’m currently learning Coding
+-  How to reach me- tarakeshpasupuleti96@gmail.com
 
 <!---
 tarakesh28/tarakesh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
